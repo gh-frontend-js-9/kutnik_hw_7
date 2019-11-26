@@ -1,16 +1,14 @@
-﻿а. Conditions
+﻿Conditions 1
 
-    .Conditions 1
+1. URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
 
-        1. URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
+2. Solution: https://www.dropbox.com/s/ps2v03k4ruxp3ht/array_first.png?dl=0
 
-        2. Solution: https://www.dropbox.com/s/ps2v03k4ruxp3ht/array_first.png?dl=0
+Conditions 2
 
-    Conditions 2
+1. URL:https://edabit.com/challenge/kLa2w7m4h849k8rmW
 
-        1. URL:https://edabit.com/challenge/kLa2w7m4h849k8rmW
-
-        2. Solution:https:https://www.dropbox.com/s/yvazbbnrrkoogr1/conditions_two.png?dl=0
+2. Solution:https:https://www.dropbox.com/s/yvazbbnrrkoogr1/conditions_two.png?dl=0
 
     Conditions 3
 
@@ -28,8 +26,6 @@
 	1. URL: https://edabit.com/challenge/3kcrnpHk7krNZdnKK
 
 	2. Solution: https://www.dropbox.com/s/0u72gcubfq00bnu/conditions_5.png?dl=0
-
-b. Arrays
 
     Arrays 1
 
@@ -60,9 +56,7 @@ b. Arrays
 	1. URL: https://edabit.com/challenge/Mo6Coy4PpTbZgtDKd
 
 	2. Solution: https://www.dropbox.com/s/dl33u3opqmmmfbz/array_5.png?dl=0
- 
 
-c.Loops
 
    Loops 1
 
