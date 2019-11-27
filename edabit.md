@@ -73,19 +73,25 @@ Loops 2
 
 Loops 3
 
-1. URL:
+1. URL:https://edabit.com/challenge/3EQGHyiYTNc9LPmhF
 
-2. Solution:
+2. Solution:https://www.dropbox.com/s/qjkzgihx6smycqj/loops-3.png?dl=0
 
 Loops 4
 
-1. URL:
+1. URL:https://edabit.com/challenge/PTvYKkvf7oytHmJFm
 
-2. Solution:
+2. Solution:https://www.dropbox.com/s/4c5cdv9pe6irimn/loops-4.png?dl=0
 
 Loops 5
 
-1. URL:
+1. URL:https://edabit.com/challenge/ydBcGvv3n447nbxCy
 
-2. Solution:
+2. Solution: https://www.dropbox.com/s/ybha05n74doziuy/loops-5.png?dl=0
+
+Object 1
+
+1. URL:https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
+
+2. Solution: https://www.dropbox.com/s/mw2eia7oxjoik2r/object-1.png?dl=0
 	
